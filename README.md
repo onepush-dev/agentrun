@@ -2,7 +2,7 @@
 
 AgentRun — open-source managed-agents server (self-improving agents, durable runs, workflows, MCP, a web console). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PLACEHOLDER)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/ns0TOi)
 
 Upstream: [Parcha-ai/agentrun](https://github.com/Parcha-ai/agentrun) (Apache-2.0). This repo only wraps the official
 image `ghcr.io/parcha-ai/agentrun-server:v0.1.0-beta.35` (app unmodified) as `ghcr.io/onepush-dev/agentrun:0.1.0-beta.35`.
